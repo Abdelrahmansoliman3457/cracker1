@@ -1001,8 +1001,8 @@ a.full-q {
     border-top-left-radius: 0;
   }
   header{
-    background: rgba(0 ,0 ,0 , 0.3);
-    backdrop-filter: blur(10px);
+    /* background: rgba(0 ,0 ,0 , 0.3); */
+    backdrop-filter: blur(6px);
   }
   h1{
     font-size: 34px;
